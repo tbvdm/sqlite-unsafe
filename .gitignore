@@ -1,0 +1,4 @@
+*.[do]
+/obj/
+/sqlite-unsafe
+/tags
